@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: d480250b92aaf8544a7953c7b248615c
+timeCreated: 1537339210
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Arrow 01
+    100002: Axe 01
+    100004: Axe 02
+    100006: Axe 03
+    100008: Base
+    100010: Bip001
+    100012: Bip001 Head
+    100014: Bip001 HeadNub
+    100016: Bip001 L Calf
+    100018: Bip001 L Clavicle
+    100020: Bip001 L Finger0
+    100022: Bip001 L Finger0Nub
+    100024: Bip001 L Foot
+    100026: Bip001 L Forearm
+    100028: Bip001 L Hand
+    100030: Bip001 L Thigh
+    100032: Bip001 L Toe0
+    100034: Bip001 L Toe0Nub
+    100036: Bip001 L UpperArm
+    100038: Bip001 Neck
+    100040: Bip001 Pelvis
+    100042: Bip001 R Calf
+    100044: Bip001 R Clavicle
+    100046: Bip001 R Finger0
+    100048: Bip001 R Finger0Nub
+    100050: Bip001 R Foot
+    100052: Bip001 R Forearm
+    100054: Bip001 R Hand
+    100056: Bip001 R Thigh
+    100058: Bip001 R Toe0
+    100060: Bip001 R Toe0Nub
+    100062: Bip001 R UpperArm
+    100064: Bip001 Spine
+    100066: Bip001 Spine1
+    100068: Bip001 Spine2
+    100070: Bone001
+    100072: Bone002
+    100074: Bone003
+    100076: Bone004
+    100078: Bone005
+    100080: Bone006
+    100082: //RootNode
+    100084: Dummy001
+    100086: Dummy002
+    100088: Dummy003
+    100090: guaiwu1_1
+    100092: guaiwu1_2
+    100094: guaiwu3_1
+    100096: guaiwu3_2
+    100098: guaiwu3_3
+    100100: guaiwu4_1
+    100102: guaiwu5_1
+    100104: Hair Female
+    100106: Hair Male
+    100108: Hair_bing
+    100110: Hair_huo
+    100112: Hammer 02
+    100114: Hammer 03
+    100116: Longbow 01
+    100118: Longbow 02
+    100120: Longbow 03
+    100122: maozi01
+    100124: maozi02
+    100126: maozi03
+    100128: maozi04
+    100130: maozi05
+    100132: maozi06
+    100134: maozi07
+    100136: maozi08
+    100138: maozi09
+    100140: Quiver 01
+    100142: Club 02
+    100144: Shield 05
+    100146: Sword 08
+    400000: Arrow 01
+    400002: Axe 01
+    400004: Axe 02
+    400006: Axe 03
+    400008: Base
+    400010: Bip001
+    400012: Bip001 Head
+    400014: Bip001 HeadNub
+    400016: Bip001 L Calf
+    400018: Bip001 L Clavicle
+    400020: Bip001 L Finger0
+    400022: Bip001 L Finger0Nub
+    400024: Bip001 L Foot
+    400026: Bip001 L Forearm
+    400028: Bip001 L Hand
+    400030: Bip001 L Thigh
+    400032: Bip001 L Toe0
+    400034: Bip001 L Toe0Nub
+    400036: Bip001 L UpperArm
+    400038: Bip001 Neck
+    400040: Bip001 Pelvis
+    400042: Bip001 R Calf
+    400044: Bip001 R Clavicle
+    400046: Bip001 R Finger0
+    400048: Bip001 R Finger0Nub
+    400050: Bip001 R Foot
+    400052: Bip001 R Forearm
+    400054: Bip001 R Hand
+    400056: Bip001 R Thigh
+    400058: Bip001 R Toe0
+    400060: Bip001 R Toe0Nub
+    400062: Bip001 R UpperArm
+    400064: Bip001 Spine
+    400066: Bip001 Spine1
+    400068: Bip001 Spine2
+    400070: Bone001
+    400072: Bone002
+    400074: Bone003
+    400076: Bone004
+    400078: Bone005
+    400080: Bone006
+    400082: //RootNode
+    400084: Dummy001
+    400086: Dummy002
+    400088: Dummy003
+    400090: guaiwu1_1
+    400092: guaiwu1_2
+    400094: guaiwu3_1
+    400096: guaiwu3_2
+    400098: guaiwu3_3
+    400100: guaiwu4_1
+    400102: guaiwu5_1
+    400104: Hair Female
+    400106: Hair Male
+    400108: Hair_bing
+    400110: Hair_huo
+    400112: Hammer 02
+    400114: Hammer 03
+    400116: Longbow 01
+    400118: Longbow 02
+    400120: Longbow 03
+    400122: maozi01
+    400124: maozi02
+    400126: maozi03
+    400128: maozi04
+    400130: maozi05
+    400132: maozi06
+    400134: maozi07
+    400136: maozi08
+    400138: maozi09
+    400140: Quiver 01
+    400142: Club 02
+    400144: Shield 05
+    400146: Sword 08
+    2100000: 'Material #26'
+    2100002: 'Material #30'
+    2100004: 'Material #31'
+    2100006: 'Material #32'
+    2100008: 'Material #44'
+    2100010: 'Material #33'
+    2100012: 08 - Default
+    2100014: 'Material #37'
+    2100016: 'Material #38'
+    2100018: 'Material #39'
+    2100020: 'Material #40'
+    2100022: 'Material #41'
+    2100024: 'Material #42'
+    2100026: 'Material #48'
+    2100028: No Name
+    2100030: 'Material #47'
+    2100032: 'Material #49'
+    2100034: 'Material #50'
+    2100036: 03 - Default
+    2100038: 'Material #51'
+    2100040: 02 - Default
+    2100042: 'Material #52'
+    2100044: 'Material #54'
+    2100046: 'Material #53'
+    2100048: 'Material #55'
+    2100050: 'Material #56'
+    2100052: 'Material #57'
+    2100054: 'Material #60'
+    2100056: 'Material #61'
+    4300000: Base
+    4300002: Longbow 01
+    4300004: Longbow 02
+    4300006: Longbow 03
+    4300008: maozi03
+    4300010: maozi04
+    4300012: maozi01
+    4300014: maozi02
+    4300016: maozi07
+    4300018: maozi09
+    4300020: maozi08
+    4300022: maozi06
+    4300024: maozi05
+    4300026: Quiver 01
+    4300028: Hair Male
+    4300030: Hair Female
+    4300032: Arrow 01
+    4300034: guaiwu1_1
+    4300036: guaiwu1_2
+    4300038: guaiwu3_1
+    4300040: guaiwu3_2
+    4300042: guaiwu3_3
+    4300044: guaiwu4_1
+    4300046: guaiwu5_1
+    4300048: Hair_bing
+    4300050: Hair_huo
+    4300052: Axe 01
+    4300054: Axe 02
+    4300056: Axe 03
+    4300058: Hammer 02
+    4300060: Hammer 03
+    4300062: Club 02
+    4300064: Shield 05
+    4300066: Sword 08
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Arrow 01
+    13700002: Axe 01
+    13700004: Axe 02
+    13700006: Axe 03
+    13700008: Base
+    13700010: guaiwu1_1
+    13700012: guaiwu1_2
+    13700014: guaiwu3_1
+    13700016: guaiwu3_2
+    13700018: guaiwu3_3
+    13700020: guaiwu4_1
+    13700022: guaiwu5_1
+    13700024: Hair Female
+    13700026: Hair Male
+    13700028: Hair_bing
+    13700030: Hair_huo
+    13700032: Hammer 02
+    13700034: Hammer 03
+    13700036: Longbow 01
+    13700038: Longbow 02
+    13700040: Longbow 03
+    13700042: maozi01
+    13700044: maozi02
+    13700046: maozi03
+    13700048: maozi04
+    13700050: maozi05
+    13700052: maozi06
+    13700054: maozi07
+    13700056: maozi08
+    13700058: maozi09
+    13700060: Quiver 01
+    13700062: Club 02
+    13700064: Shield 05
+    13700066: Sword 08
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: 06872c7668f639f419fb25d07e378c09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: 48c652ab1f2176f4e8e9676a940d440c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 08 - Default
+    second: {fileID: 2100000, guid: 101a21e1841ed0d468865ebe3df541bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #26'
+    second: {fileID: 2100000, guid: edfb625c1f8fdc94d88e7b1460b75294, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #30'
+    second: {fileID: 2100000, guid: b4beea259add3d54785ffa805bbc2c2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #31'
+    second: {fileID: 2100000, guid: 65e991ad47202c44a92f17cea3e3ddd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #32'
+    second: {fileID: 2100000, guid: 79049711f03eaae46a199b38e04f7962, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #33'
+    second: {fileID: 2100000, guid: cc772f77fdc733c46b5e6d17129f2c70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #37'
+    second: {fileID: 2100000, guid: 0f9e726e34a0bfd40bd60dafe6552cb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #38'
+    second: {fileID: 2100000, guid: 808b6b6a7e7f4fd4e9e08098bcea2abc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #39'
+    second: {fileID: 2100000, guid: c265c229bb5ea104791b885096645588, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #40'
+    second: {fileID: 2100000, guid: 500c8b5b9b005fd4c91bc6050c476353, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #41'
+    second: {fileID: 2100000, guid: 2d0e00c9c24ca8148a776f8e8bfe35a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #42'
+    second: {fileID: 2100000, guid: 7265989a3ae35154ab307b45ff477241, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #44'
+    second: {fileID: 2100000, guid: df15d1fb503e14848a5d0a4fac84bd2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #47'
+    second: {fileID: 2100000, guid: 0483e4fa24a5b8b45ae47b4cdba4567b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #48'
+    second: {fileID: 2100000, guid: 0483e4fa24a5b8b45ae47b4cdba4567b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #49'
+    second: {fileID: 2100000, guid: f769853e40b1e0844a7d31fef0b18011, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #50'
+    second: {fileID: 2100000, guid: f18c9e47885a4fe408c0b37579dc71c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #51'
+    second: {fileID: 2100000, guid: c16e1b1ba9591c84eb345c91a2647c83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #52'
+    second: {fileID: 2100000, guid: 7864a750ef021cc49bf42c719fa000bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #53'
+    second: {fileID: 2100000, guid: 7c6bc600bc4fbe4488c642eabda3cca3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #54'
+    second: {fileID: 2100000, guid: 26e3c78e2a4317a4a861fdf1697b2f88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #55'
+    second: {fileID: 2100000, guid: 1ca2f81424116414287cbbbedd20c80e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #56'
+    second: {fileID: 2100000, guid: 46bb9d19a402b8d4a9f44013c3cee091, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #57'
+    second: {fileID: 2100000, guid: 504f05ced99937b4aa4dcfa107bad287, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #60'
+    second: {fileID: 2100000, guid: dcc43c7297637424cb5c51af3ba49c79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #61'
+    second: {fileID: 2100000, guid: c8355fde65b029748b669360ea3ea348, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 6dfea7e7ddb26454aaf7dcf636e9f0eb, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

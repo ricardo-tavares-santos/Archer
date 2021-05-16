@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/Archer Shooter/scenes/gameMission.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Archer Shooter/scenes/main.unity
+  isLoaded: 1
+  isActive: 1

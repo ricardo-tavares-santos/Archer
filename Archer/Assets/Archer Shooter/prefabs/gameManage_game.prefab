@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1319127045587186}
+  m_IsPrefabParent: 1
+--- !u!1 &1319127045587186
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4043736973111744}
+  - component: {fileID: 114136585076738816}
+  - component: {fileID: 114809581705499146}
+  - component: {fileID: 114941597497465268}
+  m_Layer: 0
+  m_Name: gameManage_game
+  m_TagString: gameManage
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4043736973111744
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1319127045587186}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -3.6408691, y: 0.97229004, z: -0.005859375}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114136585076738816
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1319127045587186}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe7f9850eebb66a49af6af17c75da5d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  platform:
+  - {fileID: 1191166812463774, guid: 140452833554d6d4cbee2451d8f7fde0, type: 2}
+  - {fileID: 1971962040210270, guid: 2d5b04745c619bc4cbff884ddab189ce, type: 2}
+  - {fileID: 1341468196127608, guid: b8b4c18191a15d345a2ffa6ca012384a, type: 2}
+  - {fileID: 1515193070142064, guid: 3b31e31435468c7448669621d371507c, type: 2}
+  - {fileID: 1793955730807852, guid: c3b7ace42e49e7b43b119a366bf990e5, type: 2}
+  - {fileID: 1704687494986114, guid: a655505c9d1e1004a9b41fb56601ca33, type: 2}
+  enemyObj:
+  - {fileID: 1259448403994398, guid: 490bfa18ec3417144b6870c9cb792b94, type: 2}
+  - {fileID: 1259448403994398, guid: 490bfa18ec3417144b6870c9cb792b94, type: 2}
+  - {fileID: 1342593323593382, guid: 30657fc4752c08d4bbe9b6cc755fe425, type: 2}
+  - {fileID: 1259448403994398, guid: 490bfa18ec3417144b6870c9cb792b94, type: 2}
+  - {fileID: 1342593323593382, guid: 30657fc4752c08d4bbe9b6cc755fe425, type: 2}
+  - {fileID: 1259448403994398, guid: 490bfa18ec3417144b6870c9cb792b94, type: 2}
+  - {fileID: 1342593323593382, guid: 30657fc4752c08d4bbe9b6cc755fe425, type: 2}
+  - {fileID: 1417287350304902, guid: 3d31953070fd63f45acf1ded286ff122, type: 2}
+  - {fileID: 1259448403994398, guid: 490bfa18ec3417144b6870c9cb792b94, type: 2}
+  - {fileID: 1259448403994398, guid: 490bfa18ec3417144b6870c9cb792b94, type: 2}
+  - {fileID: 1864399992103710, guid: f8c618567d24809408ad8f79c880df37, type: 2}
+  missionObj:
+  - {fileID: 0}
+  - {fileID: 1259448403994398, guid: 490bfa18ec3417144b6870c9cb792b94, type: 2}
+  - {fileID: 1259448403994398, guid: 490bfa18ec3417144b6870c9cb792b94, type: 2}
+  - {fileID: 1259448403994398, guid: 490bfa18ec3417144b6870c9cb792b94, type: 2}
+  - {fileID: 1417287350304902, guid: 3d31953070fd63f45acf1ded286ff122, type: 2}
+  - {fileID: 1342593323593382, guid: 30657fc4752c08d4bbe9b6cc755fe425, type: 2}
+  - {fileID: 1864399992103710, guid: f8c618567d24809408ad8f79c880df37, type: 2}
+  - {fileID: 1419243181171226, guid: 8dd8bd9315ebe90459785e6297d7be6a, type: 2}
+  - {fileID: 1545098582844964, guid: b19b4a8064e257c48977d32df3c43ef8, type: 2}
+  - {fileID: 1120958739495302, guid: b37750de5db3bd042b67553d73f9bd10, type: 2}
+  - {fileID: 1039778617496374, guid: ece6f5ae42cfb3f4abbf4b146b2e1bf7, type: 2}
+  - {fileID: 1511240182910068, guid: acf7e46e76ef26246ba08ea58213498f, type: 2}
+  - {fileID: 1351677654140296, guid: a9608988322afd042b5a0c0d3ae468aa, type: 2}
+  player: {fileID: 0}
+  platformLast: {fileID: 0}
+  glHeart: 30
+  gameOverUI: {fileID: 0}
+  gameOverText: {fileID: 0}
+  reliveUI: {fileID: 0}
+  btnReliveObj: {fileID: 0}
+  btnNextObj: {fileID: 0}
+  reliveTime: {fileID: 0}
+  levelMission: []
+  missionText: {fileID: 0}
+--- !u!114 &114809581705499146
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1319127045587186}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca144ccd2b9713e4a8795423a68bd55c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &114941597497465268
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1319127045587186}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2a672a138b72fa41a463a8c7c05a7d5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
